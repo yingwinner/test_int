@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://eac.yingchuyao.com/eac.ipa</string>
+					<string>https://raw.githubusercontent.com/yingwinner/test_int/master/eac.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://eac.yingchuyao.com/min.png</string>
+					<string>https://raw.githubusercontent.com/yingwinner/test_int/master/min.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://eac.yingchuyao.com/max.png</string>
+					<string>https://raw.githubusercontent.com/yingwinner/test_int/master/max.png</string>
 				</dict>
 			</array>
 			<key>matedata</key>
