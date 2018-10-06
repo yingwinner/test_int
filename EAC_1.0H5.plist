@@ -17,7 +17,7 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>https://github.com/yingwinner/test_int/raw/master/max.png</string>
 				</dict>
@@ -25,7 +25,7 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
-					<false/>
+					<true/>
 					<key>url</key>
 					<string>https://github.com/yingwinner/test_int/raw/master/min.png</string>
 				</dict>
